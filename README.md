@@ -1,1 +1,1 @@
-# JISIB
+# For journal
